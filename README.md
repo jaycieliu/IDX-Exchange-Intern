@@ -7,6 +7,4 @@
 - Ran `crmls_listed.py` and generated `CRMLSListing202602.csv`
 
 ## Project Structure
-- `data/raw/`: historical raw CSV files
-- `data/generated/`: generated monthly CSV files
 - `src/`: sold and listed extraction scripts
