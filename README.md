@@ -13,9 +13,11 @@
 
 ## Week 1 Progress
 
-- Concatenated listing and sold data from 01-2024 to 03-2026 (using centralize data downloaded in the 2026-spring group file): Sold with 591733 rows and Listing with 852963 rows.
-- Filtered to only Residential property type: Sold with 397603 rows and Listing with 540183 rows.
-- Validation: compared total rows counts before and after concatenationand filtering
+- Concatenated monthly listing and sold MLS data from 01-2024 to 03-2026, using the official centralized files provided in the Spring 2026 group folder:
+  -  Sold with 591733 rows and Listing with 852963 rows.
+- Filtered to only **Residential** property type:
+  -  Sold with 397603 rows and Listing with 540183 rows.
+- Validated the workflow: compared total rows counts before and after concatenation and filtering
 
 
 
