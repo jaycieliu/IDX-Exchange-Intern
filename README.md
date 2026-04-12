@@ -19,8 +19,8 @@
   -  Sold with 397603 rows and Listing with 540183 rows.
 - Validated the workflow: compared total rows counts before and after concatenation and filtering
 - Codes:
--   [Week1 Notebook](/Week1/week1_Jaycie_L.ipynb)
--   [Week1 Python script](/Week1/week1_Jaycie_L.py)
+  - [Week1 Notebook](/Week1/week1_Jaycie_L.ipynb)
+  - [Week1 Python script](/Week1/week1_Jaycie_L.py)
 
 
 
