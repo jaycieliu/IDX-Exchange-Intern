@@ -45,7 +45,7 @@
   - Listing dataset:
     <img width="1269" height="245" alt="image" src="https://github.com/user-attachments/assets/b223b384-d8ee-4af0-aaee-2d5a0e6a7c8e" />
 
--	Identified strange values, invalid records, and extreme outliers.
+-	Identified strange values, invalid records, and IQR-based outliers in both the sold and listing datasets, including negative DaysOnMarket, zero values in key variables, and unusually large observations.
 -	Completed initial EDA on pricing, Days on Market, date consistency, and county-level median prices.
 - Saved filtered residential datasets and removed non-core variables with more than 90% missing values for the next phase.
 - Codes:
