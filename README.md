@@ -51,3 +51,17 @@
 - Codes:
   - [Week2 Notebook](/week2/week2_Jaycie_L.ipynb)
   - [Week2 Python script](/week2/week2_Jaycie_L.py)
+
+##  Week 3 Progress
+-	Completed the mortgage rate enrichment task for both sold and listing datasets.
+-	Fetched the national 30-year fixed mortgage rate data from FRED using the MORTGAGE30US series.
+-	Converted the weekly mortgage rate data into monthly average rates to match the MLS monthly analysis level.
+-	Created a year_month key for both MLS datasets:
+  -	Sold dataset: based on CloseDate
+  - Listing dataset: based on ListingContractDate
+-	Merged the monthly mortgage rate into both datasets using a left join.
+- Added validation checks to confirm whether any rows had missing mortgage rate values after merging.
+-	Saved the enriched sold and listing datasets as new CSV files with the added rate_30yr_fixed column.
+- Codes:
+  - [Week3 Notebook](/week3/week3_Jaycie_L.ipynb)
+  - [Week3 Python script](/week3/week3_Jaycie_L.py)
