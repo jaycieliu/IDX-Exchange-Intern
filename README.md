@@ -65,3 +65,13 @@
 - Codes:
   - [Week3 Notebook](/week3/week3_Jaycie_L.ipynb)
   - [Week3 Python script](/week3/week3_Jaycie_L.py)
+ 
+## Week 4 Progress
+- Cleaned the mortgage-enriched sold and listing datasets.
+- Converted major date columns to datetime and confirmed numeric fields were properly typed.
+- Dropped non-core high-missing columns and duplicate listing columns.
+- Created invalid-value, date-consistency, and geographic-quality flags.
+- Summarized flag counts and saved cleaned analysis-ready CSVs.
+- - Codes:
+  - [Week4 Notebook](/week4/week4_Jaycie_L.ipynb)
+  - [Week4 Python script](/week4/week4_Jaycie_L.py)
