@@ -66,7 +66,7 @@
   - [Week3 Notebook](/week3/week3_Jaycie_L.ipynb)
   - [Week3 Python script](/week3/week3_Jaycie_L.py)
  
-## Week 4 Progress
+## Week 4-5 Progress
 - Cleaned the mortgage-enriched sold and listing datasets.
 - Converted major date columns to datetime and confirmed numeric fields were properly typed.
 - Dropped non-core high-missing columns and duplicate listing columns.
@@ -75,3 +75,42 @@
 - - Codes:
   - [Week4 Notebook](/week4/week4_Jaycie_L.ipynb)
   - [Week4 Python script](/week4/week4_Jaycie_L.py)
+ 
+ 
+## Week 6 Progress
+
+This week, I created engineered market metrics from the cleaned residential MLS datasets to prepare for Tableau dashboard development.
+
+### Work Completed
+- Loaded the cleaned residential sold and listing datasets.
+- Created sold-side market metrics:
+  - price ratio
+  - close-to-original-list ratio
+  - price per square foot
+  - days on market
+  - year, month, and YrMo variables
+  - listing-to-contract days
+  - contract-to-close days
+- Created listing-side market activity metrics:
+  - list year, list month, and list YrMo
+  - list price per square foot
+  - monthly new listings count
+- Generated segmented summary tables by:
+  - CountyOrParish
+  - PropertyType and PropertySubType
+  - MLSAreaMajor
+  - ListOfficeName and BuyerOfficeName
+- Saved sample output tables to validate that the new columns were populated correctly.
+
+### Outputs
+- Codes:
+  - [Week6 Notebook](/week6/week6_Jaycie_L.ipynb)
+  - [Week6 Python script](/week6/week6_Jaycie_L.py)`
+- Summary outputs:
+  - `outputs/week6/week6_sample_output.csv`
+  - `outputs/week6/week6_county_summary.csv`
+  - `outputs/week6/week6_property_summary.csv`
+  - `outputs/week6/week6_monthly_new_listings.csv`
+
+### Notes
+Full MLS datasets were not uploaded to GitHub due to confidentiality and file size considerations.
