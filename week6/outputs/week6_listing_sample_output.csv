@@ -1,0 +1,21 @@
+ListingContractDate,ListPrice,LivingArea,DaysOnMarket,list_year,list_month,list_yrmo,list_price_per_sqft,listing_days_on_market,PropertyType,PropertySubType,CountyOrParish,MLSAreaMajor,City,PostalCode,ListOfficeName
+2024-01-29,90000.0,960.0,0,2024,1,2024-01,93.75,0,ManufacturedInPark,,Los Angeles,614 - Covina,Covina,91722,CENTURY 21 CITRUS REALTY INC
+2024-01-11,1500000.0,,0,2024,1,2024-01,,0,CommercialSale,Retail,San Diego,92025 - Escondido,Escondido,92025,Judson Real Estate
+2024-01-01,1340000.0,1301.0,127,2024,1,2024-01,1029.9769408147579,127,Residential,Condominium,Los Angeles,C05 - Westwood - Century City,Los Angeles,90067,Rodeo Realty- Brentwood
+2024-01-24,2500000.0,2788.0,1,2024,1,2024-01,896.700143472023,1,Residential,SingleFamilyResidence,Orange,LNSLT - Salt Creek,Laguna Niguel,92677,Your Home Sold Guaranteed Realty
+2024-01-12,3150000.0,3250.0,1,2024,1,2024-01,969.2307692307693,1,Residential,SingleFamilyResidence,Los Angeles,655 - San Marino,San Marino,91108,COMPASS
+2024-01-20,3090000.0,7456.0,0,2024,1,2024-01,414.431330472103,0,Residential,SingleFamilyResidence,Los Angeles,616 - Diamond Bar,Diamond Bar,91765,"Signature One Realty Group, Inc"
+2024-01-12,12725000.0,2321.0,2,2024,1,2024-01,5482.550624730719,2,Residential,SingleFamilyResidence,Orange,N9 - Lower Newport Bay - Balboa Island,Newport Beach,92662,Pacific Sotheby's Int'l Realty
+2024-01-30,665000.0,1487.0,2,2024,1,2024-01,447.2091459314055,2,Residential,ManufacturedOnLand,San Diego,92040 - Lakeside,Lakeside,92040,Bryon Thompson Broker
+2024-01-26,1125000.0,1750.0,2,2024,1,2024-01,642.8571428571429,2,Residential,SingleFamilyResidence,Riverside,321 - Rancho Mirage,Rancho Mirage,92270,The Desert Life Realty
+2024-01-08,1849000.0,3152.0,3,2024,1,2024-01,586.6116751269036,3,Residential,SingleFamilyResidence,Los Angeles,634 - La Canada Flintridge,La Canada Flintridge,91011,Coldwell Banker Realty
+2024-01-25,1389000.0,2282.0,5,2024,1,2024-01,608.6765994741455,5,Residential,SingleFamilyResidence,Orange,77 - Anaheim Hills,Anaheim Hills,92808,T.N.G. Real Estate Consultants
+2024-01-29,1249888.0,1899.0,0,2024,1,2024-01,658.1822011585044,0,Residential,Townhouse,Orange,JS - San Juan South,San Juan Capistrano,92675,Compass
+2024-01-09,349000.0,1920.0,0,2024,1,2024-01,181.77083333333334,0,Residential,SingleFamilyResidence,San Bernardino,PHEL - Phelan,Phelan,92371,"Fathom Realty Group, Inc."
+2024-01-30,2900.0,1276.0,0,2024,1,2024-01,2.272727272727273,0,ResidentialLease,Apartment,Los Angeles,648 - Pasadena (SE),Pasadena,91107,Harvest Realty Development
+2024-01-01,950000.0,1871.0,5,2024,1,2024-01,507.7498663816141,5,Residential,SingleFamilyResidence,San Diego,92078 - San Marcos,San Marcos,92078,Real Broker
+2024-01-01,300000.0,,0,2024,1,2024-01,,0,CommercialSale,Office,Los Angeles,"RP - Compton S of Rosecrans, E of Central,W of Ala",Compton,90222,Revel Real Estate
+2024-01-21,2575.0,400.0,102,2024,1,2024-01,6.4375,102,ResidentialLease,SingleFamilyResidence,Los Angeles,C04 - Bel Air - Holmby Hills,Los Angeles,90077,Pinkham Estates Realty
+2024-01-27,1595000.0,3761.0,5,2024,1,2024-01,424.0893379420367,5,Residential,SingleFamilyResidence,San Diego,92009 - Carlsbad,Carlsbad,92009,Compass
+2024-01-31,1299000.0,2434.0,6,2024,1,2024-01,533.6894001643385,6,Residential,SingleFamilyResidence,Ventura,WV - Westlake Village,Westlake Village,91362,LIV Sotheby's International Realty
+2024-01-22,650000.0,1400.0,0,2024,1,2024-01,464.2857142857143,0,Residential,SingleFamilyResidence,San Luis Obispo,ATSC - Atascadero,Atascadero,93422,RE/MAX Parkside Real Estate
