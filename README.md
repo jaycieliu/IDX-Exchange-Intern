@@ -105,7 +105,7 @@ This week, I created engineered market metrics from the cleaned residential MLS 
 ### Outputs
 - Codes:
   - [Week6 Notebook](/week6/week6_Jaycie_L.ipynb)
-  - [Week6 Python script](/week6/week6_Jaycie_L.py)`
+  - [Week6 Python script](/week6/week6_Jaycie_L.py)
 - Summary outputs:
   - `outputs/week6/week6_sample_output.csv`
   - `outputs/week6/week6_county_summary.csv`
