@@ -113,3 +113,43 @@ This week, I created engineered market metrics from the cleaned residential MLS 
 
 ### Notes
 Full MLS datasets were not uploaded to GitHub due to confidentiality and file size considerations.
+
+
+## Week 7 Progress – Outlier Detection and Data Quality
+
+This week, I implemented outlier detection and data quality checks on the Residential-filtered sold dataset. The goal was to identify extreme values in key numeric fields before Tableau dashboard development.
+
+### Work Completed
+
+- Loaded the Week 6 engineered sold dataset.
+- Checked the `PropertyType` distribution and filtered the dataset to `Residential` records only.
+- Converted key numeric fields to numeric format:
+  - `ClosePrice`
+  - `LivingArea`
+  - `DaysOnMarket`
+- Created business-rule invalid flags for:
+  - `ClosePrice <= 0`
+  - `LivingArea <= 0`
+  - `DaysOnMarket < 0`
+- Applied the IQR method to detect outliers in:
+  - `ClosePrice`
+  - `LivingArea`
+  - `DaysOnMarket`
+- Added separate IQR outlier flag columns for each field.
+- Created a combined removal flag for records that failed business rules or were identified as IQR outliers.
+- Preserved the full flagged dataset and created a separate clean filtered analysis dataset.
+- Compared row counts, medians, means, and percentile distributions before and after filtering.
+- Added an optional listing-side outlier check using:
+  - `ListPrice`
+  - `LivingArea`
+  - `DaysOnMarket`
+
+### Outputs
+- Codes:
+  - [Week7 Notebook](/week7/week7_Jaycie_L.ipynb)
+  - [Week7 Python script](/week7/week7_Jaycie_L.py)
+- Summary outputs:
+  - [Week7 Outputs Samples](/week7/outputs)
+
+
+
