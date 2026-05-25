@@ -1,0 +1,4 @@
+flag,flagged_records,flagged_pct
+invalid_close_price_flag,3,7.545214699084262e-06
+invalid_living_area_flag,373,0.00093812169425281
+invalid_days_on_market_flag,46,0.00011569329205262536

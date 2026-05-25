@@ -1,0 +1,4 @@
+field,q1,q3,iqr,lower_bound,upper_bound
+ClosePrice,575000.0,1300000.0,725000.0,-512500.0,2387500.0
+LivingArea,1247.0,2217.0,970.0,-208.0,3672.0
+DaysOnMarket,8.0,48.0,40.0,-52.0,108.0

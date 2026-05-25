@@ -1,0 +1,4 @@
+flag,flagged_records,flagged_pct
+closeprice_iqr_outlier_flag,29410,0.07396825476668939
+livingarea_iqr_outlier_flag,17540,0.04411435527397932
+daysonmarket_iqr_outlier_flag,30269,0.07612870124219384

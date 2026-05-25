@@ -1,0 +1,4 @@
+category,record_count,record_pct
+Business-rule invalid records,422,0.0010613602010045196
+IQR outlier records,62132,0.1562664265611678
+Total records removed from clean analysis,62349,0.15681219709106822
